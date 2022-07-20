@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KiDtHr9ZE+oJxxNcIvszjA3hxh4q8iuFmYZC3t5yXSl6XMjNkg8a/cMiipYHz7hWbnkiySFClrElGMhaNgAE6g==",
+  "dgSpecHash": "I3T7CCgBjMRh9J+biiqwgasy+e2GjeBBOKj3ZtQ0P5F1uHcxozE1fpd/3slAWX754jcCigJW1WA3+k4rfouZOw==",
   "success": true,
-  "projectFilePath": "D:\\Projeler\\MangoDBApi\\MangoDBApi\\MangoDBApi.csproj",
+  "projectFilePath": "D:\\GitHub\\MangoDBApi\\MangoDBApi\\MangoDBApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hasan.cali\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\hasan.cali\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
