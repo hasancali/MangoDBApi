@@ -823,20 +823,22 @@
   "packageFolders": {
     "C:\\Users\\hasan.cali\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeler\\MangoDBApi\\MangoDBApi\\MangoDBApi.csproj",
+      "projectUniqueName": "D:\\GitHub\\MangoDBApi\\MangoDBApi\\MangoDBApi.csproj",
       "projectName": "MangoDBApi",
-      "projectPath": "D:\\Projeler\\MangoDBApi\\MangoDBApi\\MangoDBApi.csproj",
+      "projectPath": "D:\\GitHub\\MangoDBApi\\MangoDBApi\\MangoDBApi.csproj",
       "packagesPath": "C:\\Users\\hasan.cali\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeler\\MangoDBApi\\MangoDBApi\\obj\\",
+      "outputPath": "D:\\GitHub\\MangoDBApi\\MangoDBApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\hasan.cali\\AppData\\Roaming\\NuGet\\NuGet.Config",
